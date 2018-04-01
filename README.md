@@ -1,6 +1,6 @@
 # Fizz Buzz
 
-Hi! Fizz Buzz (or Bizz-Buzz as I like to call it) is my first attempt at applying different iOS technologies to create a functional app that would be good to release on the app store. What is a Fizz Buzz you might ask? Well Fizz Buzz is a programming challenge to test programmers (maybe just a beginner like me?)  and revolves around the idea of iterating over a range of values to calculate (determine) if they meet a certain criteria. If a number is divisible by 5, it's a Buzz, divisible by 3 is a Fizz, divisible by 3 and 5 is a Fizz Buzz, otherwise the number is neither.
+Hi! Fizz Buzz (or Bizz-Buzz as I like to call it) is my first attempt at applying different iOS technologies to create a functional app that would be good enough to release on the app store. What is a Fizz Buzz you might ask? Well Fizz Buzz is a programming challenge to test programmers (maybe just a beginner like me?)  and revolves around the idea of iterating over a range of values to calculate (determine) if they meet a certain criteria. If a number is divisible by 5, it's a Buzz, divisible by 3 is a Fizz, divisible by 3 and 5 is a Fizz Buzz, otherwise the number is neither.
 
 ## Technologies
 The following technologies (APIs, frameworks, classes, methodologies,  paradigms, etc) are used in this project:
